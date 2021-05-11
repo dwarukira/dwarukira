@@ -14,7 +14,7 @@
 - Instagram -  https://www.instagram.com/dwarukira
 - Linkedin - https://www.linkedin.com/in/duncan-warukira
 - Medium - https://medium.com/@dwarukira
-- Wensite - https://warukira.me
+- Website - https://warukira.me
 
 
 <!--
