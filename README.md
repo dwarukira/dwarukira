@@ -3,7 +3,6 @@
 
 #### A little about me
 - 🌱 I’m currently learning Rust
-- 💬 Ask me about science
 - 📫 How to reach me: dwarukira@gmail.com
 
 
