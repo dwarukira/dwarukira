@@ -9,7 +9,6 @@
 #### Get in touch
 
 - Twitter - https://twitter.com/dwarukira
-- Instagram -  https://www.instagram.com/dwarukira
 - Linkedin - https://www.linkedin.com/in/duncan-warukira
 - Medium - https://medium.com/@dwarukira
 - Website - https://warukira.me
