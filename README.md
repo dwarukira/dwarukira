@@ -1,16 +1,10 @@
-### Hi there 👋. I am Duncan Warukira a software engineer from Nairobi Kenya
+### Hi there 👋. I am Duncan Warukira
 
-
-#### A little about me
-- 🌱 I’m currently learning Rust
-- 📫 How to reach me: dwarukira@gmail.com
 
 
 #### Get in touch
 
 - Twitter - https://twitter.com/dwarukira
-- Linkedin - https://www.linkedin.com/in/duncan-warukira
-- Medium - https://medium.com/@dwarukira
 - Website - https://warukira.me
 
 
