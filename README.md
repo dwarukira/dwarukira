@@ -1,11 +1,4 @@
-### Hi there 👋. I am Duncan Warukira
 
-
-
-#### Get in touch
-
-- Twitter - https://twitter.com/dwarukira
-- Website - https://warukira.me
 
 
 <!--
